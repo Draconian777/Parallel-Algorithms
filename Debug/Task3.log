@@ -1,0 +1,13 @@
+﻿  Task3.c
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(26,9): warning C4129: 'd': unrecognized character escape sequence
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(29,10): warning C4477: 'scanf_s' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(29,10): message : this argument is used by a conversion specifier
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(29,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(29,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(29,10): message : the missing variadic argument 2 is required by format string '%c'
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(29,10): message : this argument is used as a buffer size
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(35,13): warning C4013: 'time' undefined; assuming extern returning int
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(166,40): warning C4020: 'realloc': too many actual parameters
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(192,6): warning C4101: 'row': unreferenced local variable
+E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Task3.c(192,11): warning C4101: 'col': unreferenced local variable
+  Task3.vcxproj -> E:\OneDrive\Computer Engineering MSc\Parallel Algorithms and Programming\Homework\Task3\Debug\Task3.exe

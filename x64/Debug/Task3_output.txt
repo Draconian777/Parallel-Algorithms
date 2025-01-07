@@ -1,0 +1,2 @@
+Column Indices Matching Task 3 Criteria are:	0 ,0 ,
+time spent: 0.000000 s	using 4 threads

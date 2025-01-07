@@ -1,0 +1,10 @@
+﻿  Task3.c
+E:\OneDrive\Computer Engineering MSc\First Semester\Parallel Algorithms and Programming\Homework\Task3\Task3.c(33,9): warning C4129: 'G': unrecognized character escape sequence
+E:\OneDrive\Computer Engineering MSc\First Semester\Parallel Algorithms and Programming\Homework\Task3\Task3.c(36,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\OneDrive\Computer Engineering MSc\First Semester\Parallel Algorithms and Programming\Homework\Task3\Task3.c(36,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\OneDrive\Computer Engineering MSc\First Semester\Parallel Algorithms and Programming\Homework\Task3\Task3.c(36,10): message : the missing variadic argument 2 is required by format string '%c'
+E:\OneDrive\Computer Engineering MSc\First Semester\Parallel Algorithms and Programming\Homework\Task3\Task3.c(36,10): message : this argument is used as a buffer size
+E:\OneDrive\Computer Engineering MSc\First Semester\Parallel Algorithms and Programming\Homework\Task3\Task3.c(43,16): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\OneDrive\Computer Engineering MSc\First Semester\Parallel Algorithms and Programming\Homework\Task3\Task3.c(122,30): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[100]'
+E:\OneDrive\Computer Engineering MSc\First Semester\Parallel Algorithms and Programming\Homework\Task3\Task3.c(122,21): warning C4024: 'fopen': different types for formal and actual parameter 1
+  Task3.vcxproj -> E:\OneDrive\Computer Engineering MSc\First Semester\Parallel Algorithms and Programming\Homework\Task3\x64\Debug\Task3.exe
